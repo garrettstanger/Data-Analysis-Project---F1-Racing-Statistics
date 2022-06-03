@@ -1,6 +1,6 @@
 # Overview
 
-This is my project on using Python and Pandas to analyze an F1 Racing statistics dataset. All of the code is in the .pynb file.
+This is my project on using Python and Pandas to analyze an F1 Racing statistics dataset. All of the code is in the .ipynb file.
 
 This dataset includes statistics such as races won, lap times, DOB, pit stop times, etc. I got this dataset from kaggle.com, specifically [F1 Championship Racing Data](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
 

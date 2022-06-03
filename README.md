@@ -7,8 +7,6 @@ This dataset includes statistics such as races won, lap times, DOB, pit stop tim
 I created this project to practice using pandas and python to be able to not only read through csv data but also work on manipulating the data I found and display
 it in more helpful ways.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=hMxk9NS8-4A&ab_channel=GarrettStanger)
 
 # Data Analysis Results
